@@ -1,0 +1,8 @@
+title:A1en私人清单
+description:有缘人可见
+
+//这个是备注应该看不见吧//
+dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:A1ien的14赛季超强PVE掉落列表。推荐大师属性 - 填装/操控
+
+//notes:非常适合PVP的主手斥候步枪 (PvP): 杀人风最好，其次是速瞄|tags:pvp
+dimwishlist:item=3654674561&perks=1840239774,1561002382,957782887,3465198467
